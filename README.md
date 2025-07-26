@@ -4,7 +4,7 @@ Linear Regression is a statistical method attempting to find a linear line of be
 
 **y = mx+c / y = mx+b** 
 
-as **ŷ = β0(x) + β1**. 
+as **ŷ = β1(x) + β0**. 
 
 **https://www.ncl.ac.uk/webtemplate/ask-assets/external/maths-resources/statistics/regression-and-correlation/simple-linear-regression.html#:~:text=7%20See%20Also-,Definition,this%20is%20known%20as%20interpolation.**
 
